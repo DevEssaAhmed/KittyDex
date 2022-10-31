@@ -31,7 +31,7 @@ https://essaahmd.github.io/kittydex/
 Clone the project
 
 ```bash
-  git clone https://github.com/EssaAhmd/kittydex.git
+  git clone https://github.com/EssaAhmd/KittyDex.git
 ```
 
 Go to the project directory
