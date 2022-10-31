@@ -23,7 +23,7 @@ If you are new to react and just want to get started this is the best project fo
 ## Demo
 
 Live URL
-https://essaahmd.github.io/kittydex/
+https://essaahmd.github.io/KittyDex/
 
 
 ## Run Locally
@@ -37,7 +37,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd kittydex
+  cd KittyDex
 ```
 
 Install dependencies
